@@ -7,3 +7,10 @@ http://exercism.io/exercises/rust/wordy/readme
 It follows a Code Co-op where we introduced a group of
 enthusiastic people to Rust and set them all to work
 solving this problem!
+
+To compile:
+
+```
+    rustc wordy.rs
+    rustc mini.rs
+```
