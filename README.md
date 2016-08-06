@@ -14,3 +14,17 @@ To compile:
     rustc wordy.rs
     rustc mini.rs
 ```
+
+For the `mini` example, enter statements line by line as:
+
+    What is NUM1 OP NUM2?
+
+where `NUMn` are anything parseable as a float and `OP` is
+one of `plus`, `minus`, `times` or `over`.
+
+For the `wordy` example, enter statements line by line as:
+
+    What is NUM1 OP1 NUM2 OP2 NUM3 OP3 ...?
+
+where `NUMn` are anything parseable as a float and `OP` is
+one of `plus`, `minus`, `times` or `divided by`.
